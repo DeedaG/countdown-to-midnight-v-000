@@ -1,5 +1,6 @@
 #write your code here
 
+i = 5
 
 def countdown(number)
   while i > 0
