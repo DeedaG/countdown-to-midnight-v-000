@@ -8,5 +8,5 @@ def countdown(n)
     n -= 1
   if n = 0
     "HAPPY NEW YEAR!"
-
+  end
 end
