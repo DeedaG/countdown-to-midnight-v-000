@@ -11,7 +11,7 @@ def countdown(n)
   end
 end
 
-def countdown_with_sleep
+def countdown_with_sleep(sleep)
   countdown
     sleep 1
   end
