@@ -1,6 +1,6 @@
 #write your code here
 
-# NOTE:  = 5
+n  = 5
 
 def countdown(n)
   while n > 0
