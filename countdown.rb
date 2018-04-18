@@ -14,5 +14,4 @@ end
 def countdown_with_sleep(5)
   countdown(n)
     sleep 1
-  end
 end
